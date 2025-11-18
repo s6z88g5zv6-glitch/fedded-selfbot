@@ -1192,4 +1192,5 @@ async def react_off(ctx):
     react_mode = False
     await ctx.send("React mode disabled.")
     
-bot.run(token)
+bot.run("MTQzOTUyNzgyMTQ4MjM5MzY5MA.G0sI6e.yBq_JJek2MFXfRX3lJ7L14p7DiND8Bq65iyS8Y")
+
